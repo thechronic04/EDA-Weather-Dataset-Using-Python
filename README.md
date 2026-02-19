@@ -1,3 +1,5 @@
+<img width="621" height="702" alt="image" src="https://github.com/user-attachments/assets/71976926-b75f-4220-864c-0579729280c8" />
+
 # EDA-Weather-Dataset-Using-Python
 This project focuses on performing Exploratory Data Analysis (EDA) on a real-world weather dataset using Python and popular data analysis libraries such as Pandas, NumPy, Matplotlib, and Seaborn
 
